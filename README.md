@@ -31,7 +31,7 @@ Time spent: **8** hours spent in total
 3. (Required) Vulnerability Name or ID: XSS by uploading music file
   - [ ] Summary: Uploaded music file with malicious description.
     - Vulnerability types: cross- site scripting
-    - Tested in version:4.7.4
+    - Tested in version:4.2
      
   - [ ] GIF Walkthrough: yes
   - [ ] Steps to recreate: Uploaded music file on wordpress site with malicious music file.
