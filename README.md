@@ -13,7 +13,7 @@ Time spent: **8** hours spent in total
      
   - [ ] GIF Walkthrough: yes 
   - [ ] Steps to recreate: Created a new user and checked while logging in
-  <img src="https://github.com/mrsuman2002/Software-Secure-Engineering/blob/master/WP%204.2%20%20Username%20emumeration.gif">
+  <img src="https://github.com/saroze13/week7-8/blob/master/User-Enumeration.gif">
 
 
 
@@ -24,7 +24,9 @@ Time spent: **8** hours spent in total
     
   - [ ] GIF Walkthrough:yes
   - [ ] Steps to recreate: XSS on wordpress website
-<img src="https://github.com/mrsuman2002/Software-Secure-Engineering/blob/master/WP%204.2%20%20XSS%20on%20a%20WordPress%20site.gif">
+<img src="https://github.com/saroze13/week7-8/blob/master/xss-through-image-upload.gif">
+<img src="https://github.com/saroze13/week7-8/blob/master/image-upload-xss.png">
+
 
 3. (Required) Vulnerability Name or ID XSS to upload larger media than 2 mb
   - [ ] Summary: Uploaded music file with malicious description.
@@ -34,5 +36,5 @@ Time spent: **8** hours spent in total
   - [ ] GIF Walkthrough: yes
   - [ ] Steps to recreate: Uploaded music file on wordpress site with malicious music file.
    
-   <img src='WP 4.7.4 Large File Upload Error XSS.gif' title='WordPress XSS2' width='' alt='' />
+   <img src='https://github.com/saroze13/week7-8/blob/master/media-upload-xss.gif' />
    
